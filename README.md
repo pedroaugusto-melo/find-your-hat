@@ -2,6 +2,8 @@
 
 A fun game where the player has to find its hat.
 
+![Game Example](./resources/images/game-example.png)
+
 ## Table of contents
 - [General info](#general-info)
 - [Objective](#objective)
